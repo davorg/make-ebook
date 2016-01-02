@@ -1,0 +1,9 @@
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title id="main">YOUR TITLE HERE</dc:title> 
+<meta refines="#main" property="title-type">main</meta>
+<dc:language>en-GB</dc:language> 
+<dc:creator opf:file-as="SURNAME, FORENAME" opf:role="aut">FORENAME SURNAME</dc:creator> 
+<dc:publisher>YOUR PUBLISHER HERE</dc:publisher>
+<dc:date opf:event="publication">YYYY-MM-DD</dc:date>
+<dc:rights>Copyright ©2014 by FORENAME SURNAME</dc:rights>
+</metadata>
