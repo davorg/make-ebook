@@ -1,6 +1,6 @@
 /* This defines styles and classes used in the book */
 h1, h2, h3, h4, h5, h6, body {
-  font-family: arail, helvetica, sans-serif;
+  font-family: arial, helvetica, sans-serif;
 }
 body { margin: 5%; text-align: justify; font-size: medium; }
 code { font-family: monospace; }
