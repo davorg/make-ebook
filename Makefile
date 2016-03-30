@@ -1,3 +1,5 @@
+SHELL=/bin/bash
+
 book = yourbookname
 chapters = $(shell cat chapters.txt)
 
