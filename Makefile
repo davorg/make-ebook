@@ -21,3 +21,4 @@ $(book).pdf: $(book).epub
 clean:
 	rm -f $(book).{pdf,epub,mobi}
 
+.PHONY: clean
