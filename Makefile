@@ -1,3 +1,5 @@
+SHELL=/bin/bash
+
 book = yourbookname
 chapters = $(shell cat chapters.txt)
 
@@ -21,3 +23,4 @@ $(book).pdf: $(book).epub
 clean:
 	rm -f $(book).{pdf,epub,mobi}
 
+.PHONY: clean
